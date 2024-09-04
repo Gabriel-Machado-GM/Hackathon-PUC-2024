@@ -25,4 +25,4 @@ Este projeto proporcionou uma visão valiosa sobre como a PUC está contribuindo
 - **Gabriel Machado**
 
 ## Licença
-Este projeto é licenciado sob a [MIT License](LICENSE). *(Se aplicável)*
+Este projeto é licenciado sob a [MIT License](LICENSE).
