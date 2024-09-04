@@ -21,9 +21,8 @@ Este projeto tem como objetivo categorizar teses e artigos desenvolvidos nos úl
 ## Conclusões
 Este projeto proporcionou uma visão valiosa sobre como a PUC está contribuindo para os Objetivos de Desenvolvimento Sustentável da ONU. A análise revelou tanto as áreas de maior impacto quanto aquelas que poderiam ser mais exploradas em futuras pesquisas acadêmicas.
 
-## Autores
+## Autor
 - **Gabriel Machado**
-- **Nome dos outros membros do grupo**
 
 ## Licença
 Este projeto é licenciado sob a [MIT License](LICENSE). *(Se aplicável)*
