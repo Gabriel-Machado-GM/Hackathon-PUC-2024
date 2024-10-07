@@ -1,28 +1,28 @@
-# Categorização de Teses e Artigos da PUC
+# Categorization of Theses and Articles from PUC
 
-## Visão Geral
-Este projeto tem como objetivo categorizar teses e artigos desenvolvidos nos últimos anos pela PUC para analisar sua aderência aos Objetivos de Desenvolvimento Sustentável (ODS) da ONU. O projeto foi desenvolvido com o intuito de entender como a produção acadêmica da PUC está alinhada com os desafios globais propostos pela ONU.
+## Overview
+This project aims to categorize theses and articles developed in recent years by PUC to analyze their adherence to the United Nations Sustainable Development Goals (SDGs). The project was developed to understand how PUC's academic production aligns with the global challenges proposed by the UN.
 
-## Objetivos do Projeto
-- **Categorização de Conteúdos Acadêmicos**: Identificar e classificar teses e artigos de acordo com os 17 Objetivos de Desenvolvimento Sustentável (ODS) da ONU.
-- **Análise de Aderência**: Avaliar o nível de alinhamento dos trabalhos acadêmicos com os ODS, proporcionando insights sobre áreas de maior e menor foco dentro da universidade.
-- **Relatório de Resultados**: Gerar um relatório detalhado mostrando a distribuição dos trabalhos acadêmicos em relação aos ODS.
+## Project Objectives
+- **Categorization of Academic Content**: Identify and classify theses and articles according to the 17 United Nations Sustainable Development Goals (SDGs).
+- **Adherence Analysis**: Evaluate the alignment level of academic works with the SDGs, providing insights into areas of greater and lesser focus within the university.
+- **Results Report**: Generate a detailed report showing the distribution of academic works in relation to the SDGs.
 
-## Metodologia
-1. **Coleta de Dados**: Foram coletadas teses e artigos publicados pela PUC nos últimos anos.
-2. **Categorização Manual e Automática**: Aplicação de técnicas de categorização, combinando métodos manuais e automatizados, para classificar os trabalhos conforme os ODS relevantes.
-3. **Análise Quantitativa**: Análise da distribuição dos trabalhos por ODS, identificando tendências e lacunas na produção acadêmica da PUC.
-4. **Validação dos Resultados**: Revisão e validação dos resultados para garantir a precisão da categorização.
+## Methodology
+1. **Data Collection**: Theses and articles published by PUC in recent years were collected.
+2. **Manual and Automatic Categorization**: Application of categorization techniques, combining manual and automated methods, to classify the works according to the relevant SDGs.
+3. **Quantitative Analysis**: Analysis of the distribution of works by SDGs, identifying trends and gaps in PUC's academic production.
+4. **Results Validation**: Review and validation of results to ensure the accuracy of the categorization.
 
-## Resultados
-- O projeto obteve o **2° lugar** em uma competição interna, destacando-se pela precisão e relevância da análise realizada.
-- Os resultados mostraram que a maioria dos trabalhos acadêmicos está concentrada em áreas como **Educação de Qualidade (ODS 4)** e **Saúde e Bem-Estar (ODS 3)**, com menor foco em **Vida na Água (ODS 14)** e **Vida Terrestre (ODS 15)**.
+## Results
+- The project achieved **2nd place** in an internal competition, standing out for the precision and relevance of the analysis performed.
+- The results showed that most academic works are concentrated in areas such as **Quality Education (SDG 4)** and **Good Health and Well-being (SDG 3)**, with less focus on **Life Below Water (SDG 14)** and **Life on Land (SDG 15)**.
 
-## Conclusões
-Este projeto proporcionou uma visão valiosa sobre como a PUC está contribuindo para os Objetivos de Desenvolvimento Sustentável da ONU. A análise revelou tanto as áreas de maior impacto quanto aquelas que poderiam ser mais exploradas em futuras pesquisas acadêmicas.
+## Conclusions
+This project provided valuable insight into how PUC is contributing to the United Nations Sustainable Development Goals. The analysis revealed both the areas of greatest impact and those that could be further explored in future academic research.
 
-## Autor
+## Author
 - **Gabriel Machado**
 
-## Licença
-Este projeto é licenciado sob a [MIT License](LICENSE).
+## License
+This project is licensed under the [MIT License](LICENSE).
