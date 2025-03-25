@@ -9,7 +9,7 @@ This project aims to categorize theses and articles developed in recent years by
 - **Results Report**: Generate a detailed report showing the distribution of academic works in relation to the SDGs.
 
 ## Methodology
-1. **Data Collection**: Theses and articles published by PUC in recent years were collected.
+1. **Data Collection**: Theses and articles published by PUC in recent years were collected and filtered.
 2. **Manual and Automatic Categorization**: Application of categorization techniques, combining manual and automated methods, to classify the works according to the relevant SDGs.
 3. **Quantitative Analysis**: Analysis of the distribution of works by SDGs, identifying trends and gaps in PUC's academic production.
 4. **Results Validation**: Review and validation of results to ensure the accuracy of the categorization.
